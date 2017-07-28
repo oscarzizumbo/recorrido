@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("recorrido_virtual_facpya")]
+[assembly: AssemblyTitle("rv01")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("recorrido_virtual_facpya")]
+[assembly: AssemblyProduct("rv01")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID es para el Id. typelib cuando este proyecto esté expuesto a COM
-[assembly: Guid("20325166-abf5-4eac-8976-923d5e3548c0")]
+[assembly: Guid("f07e50c6-2cbd-4d25-9852-40d0dc7f7407")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
